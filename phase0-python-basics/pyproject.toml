@@ -1,0 +1,17 @@
+[project]
+name = "phase0-python-basics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Krishnakanth", email = "krishnasyamla.tech11@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+phase0-python-basics = "phase0_python_basics:main"
+
+[build-system]
+requires = ["uv_build>=0.12.22,<0.13.0"]
+build-backend = "uv_build"

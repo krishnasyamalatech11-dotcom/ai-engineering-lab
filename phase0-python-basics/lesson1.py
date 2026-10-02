@@ -1,0 +1,6 @@
+db_name = "ORCLPDB1" # str (text)
+sessions = 245 # int (whole number)
+used_pct = 87.5 # float (decimal)
+is_primary = True # bool (True/False)
+print(f"{db_name}: {sessions} sessions, tablespace {used_pct}% used")
+print(type(used_pct))
