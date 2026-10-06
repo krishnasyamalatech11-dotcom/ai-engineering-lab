@@ -1,0 +1,5 @@
+2026-10-01T02:14:07 Thread 1 advanced to log sequence 1201
+2026-10-01T02:15:33 ORA-01653: unable to extend table APP.ORDERS by 128 in tablespace USERS
+2026-10-01T03:01:12 Checkpoint not complete
+2026-10-01T03:20:45 ORA-00060: Deadlock detected. More info in file orclprd_ora_4521.trc
+2026-10-01T04:05:10 ORA-01653: unable to extend table APP.ORDERS by 128 in tablespace USERS
